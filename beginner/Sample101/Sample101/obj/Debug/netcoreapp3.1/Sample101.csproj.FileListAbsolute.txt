@@ -1,0 +1,13 @@
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Sample101.exe
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Sample101.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Sample101.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Sample101.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Sample101.dll
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Sample101.pdb
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Sample101.csproj.AssemblyReference.cache
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Sample101.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Sample101.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Sample101.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Sample101.dll
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Sample101.pdb
+C:\Users\hosei\Documents\CSharp\beginner\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Sample101.genruntimeconfig.cache

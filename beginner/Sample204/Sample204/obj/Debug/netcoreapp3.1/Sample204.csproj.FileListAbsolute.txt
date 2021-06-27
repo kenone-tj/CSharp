@@ -1,0 +1,12 @@
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\bin\Debug\netcoreapp3.1\Sample204.exe
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\bin\Debug\netcoreapp3.1\Sample204.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\bin\Debug\netcoreapp3.1\Sample204.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\bin\Debug\netcoreapp3.1\Sample204.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\bin\Debug\netcoreapp3.1\Sample204.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\bin\Debug\netcoreapp3.1\Sample204.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\obj\Debug\netcoreapp3.1\Sample204.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\obj\Debug\netcoreapp3.1\Sample204.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\obj\Debug\netcoreapp3.1\Sample204.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\obj\Debug\netcoreapp3.1\Sample204.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\obj\Debug\netcoreapp3.1\Sample204.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample204\Sample204\obj\Debug\netcoreapp3.1\Sample204.genruntimeconfig.cache

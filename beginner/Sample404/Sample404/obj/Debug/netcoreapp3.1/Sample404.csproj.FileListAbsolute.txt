@@ -1,0 +1,12 @@
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\bin\Debug\netcoreapp3.1\Sample404.exe
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\bin\Debug\netcoreapp3.1\Sample404.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\bin\Debug\netcoreapp3.1\Sample404.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\bin\Debug\netcoreapp3.1\Sample404.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\bin\Debug\netcoreapp3.1\Sample404.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\bin\Debug\netcoreapp3.1\Sample404.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\obj\Debug\netcoreapp3.1\Sample404.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\obj\Debug\netcoreapp3.1\Sample404.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\obj\Debug\netcoreapp3.1\Sample404.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\obj\Debug\netcoreapp3.1\Sample404.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\obj\Debug\netcoreapp3.1\Sample404.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample404\Sample404\obj\Debug\netcoreapp3.1\Sample404.genruntimeconfig.cache

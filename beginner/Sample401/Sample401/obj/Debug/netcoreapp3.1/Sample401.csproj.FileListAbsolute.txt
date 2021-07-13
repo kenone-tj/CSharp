@@ -1,0 +1,13 @@
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\bin\Debug\netcoreapp3.1\Sample401.exe
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\bin\Debug\netcoreapp3.1\Sample401.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\bin\Debug\netcoreapp3.1\Sample401.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\bin\Debug\netcoreapp3.1\Sample401.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\bin\Debug\netcoreapp3.1\Sample401.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\bin\Debug\netcoreapp3.1\Sample401.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\obj\Debug\netcoreapp3.1\Sample401.csproj.AssemblyReference.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\obj\Debug\netcoreapp3.1\Sample401.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\obj\Debug\netcoreapp3.1\Sample401.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\obj\Debug\netcoreapp3.1\Sample401.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\obj\Debug\netcoreapp3.1\Sample401.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\obj\Debug\netcoreapp3.1\Sample401.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample401\Sample401\obj\Debug\netcoreapp3.1\Sample401.genruntimeconfig.cache

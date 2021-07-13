@@ -1,0 +1,12 @@
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\bin\Debug\netcoreapp3.1\Sample406.exe
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\bin\Debug\netcoreapp3.1\Sample406.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\bin\Debug\netcoreapp3.1\Sample406.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\bin\Debug\netcoreapp3.1\Sample406.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\bin\Debug\netcoreapp3.1\Sample406.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\bin\Debug\netcoreapp3.1\Sample406.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\obj\Debug\netcoreapp3.1\Sample406.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\obj\Debug\netcoreapp3.1\Sample406.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\obj\Debug\netcoreapp3.1\Sample406.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\obj\Debug\netcoreapp3.1\Sample406.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\obj\Debug\netcoreapp3.1\Sample406.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample406\Sample406\obj\Debug\netcoreapp3.1\Sample406.genruntimeconfig.cache

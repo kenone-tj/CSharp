@@ -1,0 +1,13 @@
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\bin\Debug\netcoreapp3.1\Sample501.exe
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\bin\Debug\netcoreapp3.1\Sample501.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\bin\Debug\netcoreapp3.1\Sample501.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\bin\Debug\netcoreapp3.1\Sample501.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\bin\Debug\netcoreapp3.1\Sample501.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\bin\Debug\netcoreapp3.1\Sample501.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\obj\Debug\netcoreapp3.1\Sample501.csproj.AssemblyReference.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\obj\Debug\netcoreapp3.1\Sample501.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\obj\Debug\netcoreapp3.1\Sample501.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\obj\Debug\netcoreapp3.1\Sample501.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\obj\Debug\netcoreapp3.1\Sample501.dll
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\obj\Debug\netcoreapp3.1\Sample501.pdb
+C:\Users\hosei\Documents\CSharp\beginner\Sample501\Sample501\obj\Debug\netcoreapp3.1\Sample501.genruntimeconfig.cache

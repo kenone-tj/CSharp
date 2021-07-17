@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample601\\Sample601\\Sample601.csproj",
+      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\601 クラスとオブジェクト\\Sample601\\Sample601.csproj",
       "projectName": "Sample601",
-      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample601\\Sample601\\Sample601.csproj",
+      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\601 クラスとオブジェクト\\Sample601\\Sample601.csproj",
       "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample601\\Sample601\\obj\\",
+      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\601 クラスとオブジェクト\\Sample601\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

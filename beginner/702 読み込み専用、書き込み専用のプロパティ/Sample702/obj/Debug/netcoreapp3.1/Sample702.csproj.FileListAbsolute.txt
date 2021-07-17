@@ -1,0 +1,13 @@
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\bin\Debug\netcoreapp3.1\Sample702.exe
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\bin\Debug\netcoreapp3.1\Sample702.deps.json
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\bin\Debug\netcoreapp3.1\Sample702.runtimeconfig.json
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\bin\Debug\netcoreapp3.1\Sample702.runtimeconfig.dev.json
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\bin\Debug\netcoreapp3.1\Sample702.dll
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\bin\Debug\netcoreapp3.1\Sample702.pdb
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\obj\Debug\netcoreapp3.1\Sample702.csproj.AssemblyReference.cache
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\obj\Debug\netcoreapp3.1\Sample702.AssemblyInfoInputs.cache
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\obj\Debug\netcoreapp3.1\Sample702.AssemblyInfo.cs
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\obj\Debug\netcoreapp3.1\Sample702.csproj.CoreCompileInputs.cache
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\obj\Debug\netcoreapp3.1\Sample702.dll
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\obj\Debug\netcoreapp3.1\Sample702.pdb
+C:\Users\hosei\source\repos\702 読み込み専用、書き込み専用のプロパティ\Sample702\obj\Debug\netcoreapp3.1\Sample702.genruntimeconfig.cache

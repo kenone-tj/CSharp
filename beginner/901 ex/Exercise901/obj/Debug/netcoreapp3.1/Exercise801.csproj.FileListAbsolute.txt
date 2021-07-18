@@ -1,0 +1,13 @@
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\bin\Debug\netcoreapp3.1\Exercise801.exe
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\bin\Debug\netcoreapp3.1\Exercise801.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\bin\Debug\netcoreapp3.1\Exercise801.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\bin\Debug\netcoreapp3.1\Exercise801.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\bin\Debug\netcoreapp3.1\Exercise801.dll
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\bin\Debug\netcoreapp3.1\Exercise801.pdb
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\obj\Debug\netcoreapp3.1\Exercise801.csproj.AssemblyReference.cache
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\obj\Debug\netcoreapp3.1\Exercise801.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\obj\Debug\netcoreapp3.1\Exercise801.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\obj\Debug\netcoreapp3.1\Exercise801.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\obj\Debug\netcoreapp3.1\Exercise801.dll
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\obj\Debug\netcoreapp3.1\Exercise801.pdb
+C:\Users\hosei\Documents\CSharp\beginner\801 ex\Exercise801\obj\Debug\netcoreapp3.1\Exercise801.genruntimeconfig.cache

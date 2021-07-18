@@ -1,0 +1,13 @@
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\bin\Debug\netcoreapp3.1\Exercise901.exe
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\bin\Debug\netcoreapp3.1\Exercise901.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\bin\Debug\netcoreapp3.1\Exercise901.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\bin\Debug\netcoreapp3.1\Exercise901.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\bin\Debug\netcoreapp3.1\Exercise901.dll
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\bin\Debug\netcoreapp3.1\Exercise901.pdb
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\obj\Debug\netcoreapp3.1\Exercise901.csproj.AssemblyReference.cache
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\obj\Debug\netcoreapp3.1\Exercise901.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\obj\Debug\netcoreapp3.1\Exercise901.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\obj\Debug\netcoreapp3.1\Exercise901.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\obj\Debug\netcoreapp3.1\Exercise901.dll
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\obj\Debug\netcoreapp3.1\Exercise901.pdb
+C:\Users\hosei\Documents\CSharp\beginner\901 ex\Exercise901\obj\Debug\netcoreapp3.1\Exercise901.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\bin\Debug\netcoreapp3.1\SampleEx102.exe
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\bin\Debug\netcoreapp3.1\SampleEx102.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\bin\Debug\netcoreapp3.1\SampleEx102.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\bin\Debug\netcoreapp3.1\SampleEx102.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\bin\Debug\netcoreapp3.1\SampleEx102.dll
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\bin\Debug\netcoreapp3.1\SampleEx102.pdb
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\obj\Debug\netcoreapp3.1\SampleEx102.csproj.AssemblyReference.cache
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\obj\Debug\netcoreapp3.1\SampleEx102.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\obj\Debug\netcoreapp3.1\SampleEx102.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\obj\Debug\netcoreapp3.1\SampleEx102.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\obj\Debug\netcoreapp3.1\SampleEx102.dll
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\obj\Debug\netcoreapp3.1\SampleEx102.pdb
+C:\Users\hosei\Documents\CSharp\beginner\802 ガベージコレクション\SampleEx102\obj\Debug\netcoreapp3.1\SampleEx102.genruntimeconfig.cache

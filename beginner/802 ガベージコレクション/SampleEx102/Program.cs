@@ -7,10 +7,10 @@ namespace SampleEx102
         static void Main(string[] args)
         {
             Console.WriteLine("メモリ使用量(初期値　　　)" + GC.GetTotalMemory(false));
-            string[] s = new string[10000];
-            for (int i = 0; i < 10000; i++)
+            string[] s = new string[100000];
+            for (int i = 0; i < 100000; i++)
             {
-                s[i] = new string('M', 10000); //Charは'' Stringは"" Mを10000文字追加
+                s[i] = new string('M', 100000); //Charは'' Stringは"" Mを10000文字追加
             }
             Console.WriteLine("メモリ使用量(GC発動前　　)" + GC.GetTotalMemory(false));
             // sの参照を解放

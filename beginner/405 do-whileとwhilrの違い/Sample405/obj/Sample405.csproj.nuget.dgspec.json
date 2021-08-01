@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample405\\Sample405\\Sample405.csproj": {}
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\405 do-whileとwhilrの違い\\Sample405\\Sample405.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample405\\Sample405\\Sample405.csproj": {
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\405 do-whileとwhilrの違い\\Sample405\\Sample405.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample405\\Sample405\\Sample405.csproj",
+        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\405 do-whileとwhilrの違い\\Sample405\\Sample405.csproj",
         "projectName": "Sample405",
-        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample405\\Sample405\\Sample405.csproj",
+        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\405 do-whileとwhilrの違い\\Sample405\\Sample405.csproj",
         "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample405\\Sample405\\obj\\",
+        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\405 do-whileとwhilrの違い\\Sample405\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample404\\Sample404\\Sample404.csproj",
+      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\404 do while\\Sample404\\Sample404.csproj",
       "projectName": "Sample404",
-      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample404\\Sample404\\Sample404.csproj",
+      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\404 do while\\Sample404\\Sample404.csproj",
       "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample404\\Sample404\\obj\\",
+      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\404 do while\\Sample404\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

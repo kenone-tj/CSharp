@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample504\\Sample504\\Sample504.csproj": {}
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\504 foreachループ\\Sample504\\Sample504.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample504\\Sample504\\Sample504.csproj": {
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\504 foreachループ\\Sample504\\Sample504.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample504\\Sample504\\Sample504.csproj",
+        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\504 foreachループ\\Sample504\\Sample504.csproj",
         "projectName": "Sample504",
-        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample504\\Sample504\\Sample504.csproj",
+        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\504 foreachループ\\Sample504\\Sample504.csproj",
         "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample504\\Sample504\\obj\\",
+        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\504 foreachループ\\Sample504\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\304 swich文\\Sample304\\Sample304.csproj",
+      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\304 複雑なif 文\\Sample304\\Sample304.csproj",
       "projectName": "Sample304",
-      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\304 swich文\\Sample304\\Sample304.csproj",
+      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\304 複雑なif 文\\Sample304\\Sample304.csproj",
       "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\304 swich文\\Sample304\\obj\\",
+      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\304 複雑なif 文\\Sample304\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

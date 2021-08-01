@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample503\\Sample503\\Sample503.csproj",
+      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\503 配列の初期化\\Sample503\\Sample503.csproj",
       "projectName": "Sample503",
-      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample503\\Sample503\\Sample503.csproj",
+      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\503 配列の初期化\\Sample503\\Sample503.csproj",
       "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample503\\Sample503\\obj\\",
+      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\503 配列の初期化\\Sample503\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

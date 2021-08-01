@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample403\\Sample403\\Sample403.csproj",
+      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\403 while文\\Sample403\\Sample403.csproj",
       "projectName": "Sample403",
-      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample403\\Sample403\\Sample403.csproj",
+      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\403 while文\\Sample403\\Sample403.csproj",
       "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample403\\Sample403\\obj\\",
+      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\403 while文\\Sample403\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

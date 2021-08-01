@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosei\\source\\repos\\Sample506\\Sample506\\Sample506.csproj",
+      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\506 ジャグ配列\\Sample506\\Sample506.csproj",
       "projectName": "Sample506",
-      "projectPath": "C:\\Users\\hosei\\source\\repos\\Sample506\\Sample506\\Sample506.csproj",
+      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\506 ジャグ配列\\Sample506\\Sample506.csproj",
       "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosei\\source\\repos\\Sample506\\Sample506\\obj\\",
+      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\506 ジャグ配列\\Sample506\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

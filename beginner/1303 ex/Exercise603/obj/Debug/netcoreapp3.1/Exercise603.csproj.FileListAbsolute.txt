@@ -1,0 +1,12 @@
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\bin\Debug\netcoreapp3.1\Exercise603.exe
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\bin\Debug\netcoreapp3.1\Exercise603.deps.json
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\bin\Debug\netcoreapp3.1\Exercise603.runtimeconfig.json
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\bin\Debug\netcoreapp3.1\Exercise603.runtimeconfig.dev.json
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\bin\Debug\netcoreapp3.1\Exercise603.dll
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\bin\Debug\netcoreapp3.1\Exercise603.pdb
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\obj\Debug\netcoreapp3.1\Exercise603.AssemblyInfoInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\obj\Debug\netcoreapp3.1\Exercise603.AssemblyInfo.cs
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\obj\Debug\netcoreapp3.1\Exercise603.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\obj\Debug\netcoreapp3.1\Exercise603.dll
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\obj\Debug\netcoreapp3.1\Exercise603.pdb
+C:\Users\hosei\Documents\CSharp\beginner\1303 ex\Exercise603\obj\Debug\netcoreapp3.1\Exercise603.genruntimeconfig.cache

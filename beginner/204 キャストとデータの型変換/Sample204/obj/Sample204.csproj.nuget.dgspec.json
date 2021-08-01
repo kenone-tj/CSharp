@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample204\\Sample204\\Sample204.csproj": {}
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\204 キャストとデータの型変換\\Sample204\\Sample204.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample204\\Sample204\\Sample204.csproj": {
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\204 キャストとデータの型変換\\Sample204\\Sample204.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample204\\Sample204\\Sample204.csproj",
+        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\204 キャストとデータの型変換\\Sample204\\Sample204.csproj",
         "projectName": "Sample204",
-        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample204\\Sample204\\Sample204.csproj",
+        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\204 キャストとデータの型変換\\Sample204\\Sample204.csproj",
         "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample204\\Sample204\\obj\\",
+        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\204 キャストとデータの型変換\\Sample204\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

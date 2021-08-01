@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\オーバーロード\\Sample602\\Sample602.csproj",
+      "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\602 オーバーロード\\Sample602\\Sample602.csproj",
       "projectName": "Sample602",
-      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\オーバーロード\\Sample602\\Sample602.csproj",
+      "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\602 オーバーロード\\Sample602\\Sample602.csproj",
       "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\オーバーロード\\Sample602\\obj\\",
+      "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\602 オーバーロード\\Sample602\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

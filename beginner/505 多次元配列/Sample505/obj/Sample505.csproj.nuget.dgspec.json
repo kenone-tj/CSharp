@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample505\\Sample505\\Sample505.csproj": {}
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\505 多次元配列\\Sample505\\Sample505.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample505\\Sample505\\Sample505.csproj": {
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\505 多次元配列\\Sample505\\Sample505.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample505\\Sample505\\Sample505.csproj",
+        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\505 多次元配列\\Sample505\\Sample505.csproj",
         "projectName": "Sample505",
-        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample505\\Sample505\\Sample505.csproj",
+        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\505 多次元配列\\Sample505\\Sample505.csproj",
         "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample505\\Sample505\\obj\\",
+        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\505 多次元配列\\Sample505\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

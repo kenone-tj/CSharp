@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample306\\Sample306\\Sample306.csproj": {}
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\306 複数の条件のcase\\Sample306\\Sample306.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample306\\Sample306\\Sample306.csproj": {
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\306 複数の条件のcase\\Sample306\\Sample306.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample306\\Sample306\\Sample306.csproj",
+        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\306 複数の条件のcase\\Sample306\\Sample306.csproj",
         "projectName": "Sample306",
-        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample306\\Sample306\\Sample306.csproj",
+        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\306 複数の条件のcase\\Sample306\\Sample306.csproj",
         "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample306\\Sample306\\obj\\",
+        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\306 複数の条件のcase\\Sample306\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",

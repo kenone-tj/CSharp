@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample406\\Sample406\\Sample406.csproj": {}
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\406 無限ループ\\Sample406\\Sample406.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample406\\Sample406\\Sample406.csproj": {
+    "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\406 無限ループ\\Sample406\\Sample406.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample406\\Sample406\\Sample406.csproj",
+        "projectUniqueName": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\406 無限ループ\\Sample406\\Sample406.csproj",
         "projectName": "Sample406",
-        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample406\\Sample406\\Sample406.csproj",
+        "projectPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\406 無限ループ\\Sample406\\Sample406.csproj",
         "packagesPath": "C:\\Users\\hosei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\Sample406\\Sample406\\obj\\",
+        "outputPath": "C:\\Users\\hosei\\Documents\\CSharp\\beginner\\406 無限ループ\\Sample406\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hosei\\AppData\\Roaming\\NuGet\\NuGet.Config",
